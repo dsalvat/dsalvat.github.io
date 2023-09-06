@@ -1,0 +1,154 @@
+
+
+[   
+      
+  {
+  "tag" : "PRINCE2",
+  "posts" : [
+      
+      "./prince2-y-scrum-una-propuesta-de-encaje.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "agile",
+  "posts" : [
+      
+      "./prince2-y-scrum-una-propuesta-de-encaje.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "bug fixing",
+  "posts" : [
+      
+      "./salvar-un-proyecto-bug-fixing-refactoring-rewriting.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "clientes",
+  "posts" : [
+      
+      "./1-producto-1-repositorio-el-error-de-los-departamentos-de-it-en-su-gestion-de-servicios.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "comunicación",
+  "posts" : [
+      
+      "./el-cto-tecnologia-comunicacion-y-liderazgo-al-servicio-de-la-empresa.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "cto",
+  "posts" : [
+      
+      "./salvar-un-proyecto-bug-fixing-refactoring-rewriting.html",
+      
+      "./1-producto-1-repositorio-el-error-de-los-departamentos-de-it-en-su-gestion-de-servicios.html",
+      
+      "./el-cto-tecnologia-comunicacion-y-liderazgo-al-servicio-de-la-empresa.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "emprender",
+  "posts" : [
+      
+      "./testeando-una-idea.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "kpi",
+  "posts" : [
+      
+      "./metricas-lo-que-nuestros-usuarios-no-nos-dicen.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "liderazgo",
+  "posts" : [
+      
+      "./el-cto-tecnologia-comunicacion-y-liderazgo-al-servicio-de-la-empresa.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "proyectos",
+  "posts" : [
+      
+      "./testeando-una-idea.html",
+      
+      "./salvar-un-proyecto-bug-fixing-refactoring-rewriting.html",
+      
+      "./prince2-y-scrum-una-propuesta-de-encaje.html",
+      
+      "./metricas-lo-que-nuestros-usuarios-no-nos-dicen.html",
+      
+      "./ticket-fest-la-historia-de-un-exito-a-medias.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "servicios",
+  "posts" : [
+      
+      "./testeando-una-idea.html",
+      
+      "./la-vocacion-de-servicio.html",
+      
+      "./metricas-lo-que-nuestros-usuarios-no-nos-dicen.html",
+      
+      "./ticket-fest-la-historia-de-un-exito-a-medias.html",
+      
+      "./1-producto-1-repositorio-el-error-de-los-departamentos-de-it-en-su-gestion-de-servicios.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "tecnologia",
+  "posts" : [
+      
+      "./salvar-un-proyecto-bug-fixing-refactoring-rewriting.html"
+      
+    ]
+  } ,
+    
+      
+  {
+  "tag" : "test",
+  "posts" : [
+      
+      "./testeando-una-idea.html"
+      
+    ]
+  } 
+    
+]
