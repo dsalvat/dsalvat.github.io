@@ -59,7 +59,7 @@ GEM
       ffi (~> 1.0)
     rexml (3.2.6)
     rouge (4.1.3)
-    rubygems-update (3.4.19)
+    rubygems-update (3.0.4)
     safe_yaml (1.0.5)
     sass-embedded (1.64.2-x64-mingw-ucrt)
       google-protobuf (~> 3.23)
@@ -79,7 +79,7 @@ DEPENDENCIES
   jekyll-feed
   jekyll-paginate
   jekyll-sitemap
-  rubygems-update (~> 3.4, >= 3.4.19)
+  rubygems-update (= 3.0.4)
 
 BUNDLED WITH
    2.4.6
