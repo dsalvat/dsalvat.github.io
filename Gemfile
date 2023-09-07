@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rubygems-update', '~> 3.4', '>= 3.4.19'
+gem 'rubygems-update', '=3-0-4'
 
 gem 'jekyll'
 
