@@ -3,7 +3,7 @@ title: "Daniel Salvat"
 description: 'de Scrum, Product Ownership, Agile, DevOps, ITIL, PRINCE2,….' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://www.danielsalvat.es/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://danielsalvat.es/" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/img/branding/theAverageManagerTitle-1200x280.png"
 logo-icon: "/assets/img/branding/theAverageManagerTitle-50x50.png"
 logo-icon-SEO: "/assets/img/branding/theAverageManagerTitle-50x50.png" # must be a non SVG file
@@ -31,7 +31,7 @@ about-author: Ingeniero Informático, fan de la agilidad y de las operaciones IT
 # Contact links
 email: daniel.salvat@gmail.com # Add your Email address
 phone: # Add your Phone number
-website: https://www.danielsalvat.es # Add your website
+website: http://danielsalvat.es # Add your website
 linkedin: danielsalvat # Add your Linkedin handle
 github: dsalvat # Add your Github handle
 twitter: '@dsalvat' # Add your Twitter handle
